@@ -1,0 +1,27 @@
+* {
+    color: white;
+    background-color: black;
+    font-size: 18px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ol li {
+    text-align: left;
+}
